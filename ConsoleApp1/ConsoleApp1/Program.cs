@@ -10,9 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            // code change fetch
+            // code change fetch Github
             
-            // code change pull
+            // code change pull Github
         }
     }
 }
